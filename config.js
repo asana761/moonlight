@@ -7,8 +7,8 @@ import db from './lib/database.js'
 
 //OwnerShip
 global.owner = [
-  [process.env.OWNER_NUMBER || '919172389527', process.env.OWNER_NAME || 'Shizo Devs 🫠', true],
-  ['917823819907', 'Shizo Techie ❤️✨', true]
+  [process.env.OWNER_NUMBER || '263776695904', process.env.OWNER_NAME || 'Shizo Devs 🫠', true],
+  ['263776695904', 'Shizo Techie ❤️✨', true]
 ]
 global.mods = []
 global.prems = []
